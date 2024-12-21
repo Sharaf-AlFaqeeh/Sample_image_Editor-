@@ -30,4 +30,3 @@ A simple application using Python and PyQt5 to work with images and a camera. Us
    ```bash
    pip install pyqt5 opencv-python numpy
 
-https://github.com/Sharaf-AlFaqeeh/Sample_image_Editor_Using_Python/blob/main/kara.png
