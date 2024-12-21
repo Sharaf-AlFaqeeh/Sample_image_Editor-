@@ -1,4 +1,4 @@
-# Sample_image_Editor-
+# Sample_image_Editor_Using_Python
 # Image and Camera Editing Application
 
 ## Project Description
