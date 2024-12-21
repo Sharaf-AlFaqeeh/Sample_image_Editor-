@@ -12,12 +12,13 @@ A simple application using Python and PyQt5 to work with images and a camera. Us
 
 ## Features
 - Open images from the device.
--
+- Scaling image size
 - Draw on images .
 - Apply filters (e.g., grayscale).
 - Resize the image.
 - Display image information (dimensions and number of channels).
 - Save the modified image.
+   
 
 ## How to Use
 1. Run the program.
